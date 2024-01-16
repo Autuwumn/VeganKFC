@@ -1,8 +1,8 @@
 {
-  "name": "ModularEnhancement",
-  "version_number": "0.0.2",
-  "website_url": "https://github.com/Autuwumn/ModularEnhancement",
-  "description": "Cards that allow you to customize a little bit more",
+  "name": "VeganKoalasFantasticCards",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/Autuwumn/VeganKFC",
+  "description": "A vegan version of a truly fantastic collection of cards",
   "dependencies": [
     "willis81808-UnboundLib-3.2.6",
     "Pykess-ModdingUtils-0.4.6",
